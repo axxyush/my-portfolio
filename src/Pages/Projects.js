@@ -3,10 +3,10 @@ import Project from "../Components/Project";
 import Navbar from "../Components/Navbar";
 import useDarkMode from "../Functions/DarkMode";
 import Footer from "../Components/Footer";
-import SimonGame from "/Users/ayushsrivastava/Desktop/React_Portfolio/my-portfolio/src/images/Simon Game 1.png";
-import AmazonClone from "/Users/ayushsrivastava/Desktop/React_Portfolio/my-portfolio/src/images/Amazon-1.png";
-import AppImage from "/Users/ayushsrivastava/Desktop/React_Portfolio/my-portfolio/src/images/app-2.png";
-import clgBoundUSA from "/Users/ayushsrivastava/Desktop/React_Portfolio/my-portfolio/src/images/college-bound-1.png";
+import SimonGame from "../images/Simon Game 1.png";
+import AmazonClone from "../images/Amazon-1.png";
+import AppImage from "../images/app-2.png";
+import clgBoundUSA from "../images/college-bound-1.png";
 
 function Projects() {
   const { mode, textColor, toggleMode } = useDarkMode();

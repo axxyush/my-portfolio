@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import resumeImg from "/Users/ayushsrivastava/Desktop/React_Portfolio/my-portfolio/src/images/ayush_resume.png";
+import resumeImg from "./../images/ayush_resume.png";
 
 function Resume() {
   const [showImage, setShowImage] = useState(true);
