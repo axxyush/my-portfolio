@@ -33,7 +33,7 @@ export default function MainPage() {
                 onClick={toggleDisplay}
                 className="button"
               >
-                See More!
+                Socials
               </button>
             </div>
             <div>{showImage ? <AuthorImages /> : <SocialsBtn />}</div>
