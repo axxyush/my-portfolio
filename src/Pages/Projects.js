@@ -35,7 +35,7 @@ function Projects() {
   const amazonDetails = {
     name: "Amazon Clone",
     siteLink: "https://axxyush.github.io/AmazonClone/",
-    skills: "HTML, CSS",
+    skills: "HTML, CSS, JavaScript",
     description: `Developed a front-end Amazon Clone, replicating the user interface and design of the popular e-commerce platform. This project exclusively focused on the visual aspects, omitting backend functionalities. Demonstrated proficiency in front-end technologies such as HTML, CSS, and JavaScript to recreate a responsive and visually appealing Amazon-like shopping experience.`,
     challenges: `The absence of a backend posed challenges in implementing features like real-time data, user authentication, and dynamic interactions. Overcoming these challenges required innovative front-end solutions to emulate certain functionalities and maintain a seamless user experience.`,
     overcome: `Utilized JavaScript to simulate dynamic elements and interactions, creating a responsive interface without the need for server-side processing. Employed creative solutions to mimic certain backend features, ensuring a visually accurate representation of the Amazon platform on the front end.`,
@@ -56,8 +56,8 @@ function Projects() {
   const clgBoundDetail = {
     name: "College Bound USA",
     siteLink: "https://axxyush.github.io/collegeboundusa/",
-    skills: "Kotlin, App Development",
-    description: `Launched the College Bound USA website using HTML, CSS, and JavaScript, providing specialized services for students aspiring to enter top US universities. The site communicates tailored services and fee structures, positioning itself as a valuable partner for a smooth path to prestigious higher education.`,
+    skills: "HTML, CSS, JavaScript",
+    description: `Developed the College Bound USA website using HTML, CSS, and JavaScript, providing specialized services for students aspiring to enter top US universities. The site communicates tailored services and fee structures, positioning itself as a valuable partner for a smooth path to prestigious higher education.`,
     challenges: `Balancing visual appeal with clear communication and ensuring accessibility across devices.`,
     overcome: `Utilized HTML, CSS, and JavaScript to create an engaging and informative website. Employed responsive design for optimal viewing on different devices.`,
     acquired: `Enhanced proficiency in HTML, CSS, and JavaScript for web development, focusing on creating visually appealing and informative websites.`,

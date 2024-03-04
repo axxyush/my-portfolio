@@ -950,7 +950,7 @@ p {
 
 .cardS p:last-child {
   color: #e81cff;
-  font-weight: 600;
+  font-weight: 601;
 }
 
 .cardS:hover::after {

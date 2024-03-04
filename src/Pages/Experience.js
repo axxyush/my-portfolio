@@ -7,6 +7,14 @@ function Experience() {
   const { mode, textColor, toggleMode } = useDarkMode();
   const experiences = [
     {
+      company: "UB Campus Dining & Shops",
+      title: "Student Employee",
+      location: "Buffalo, United States",
+      year: "January 2024 - present",
+      description:
+        "Thrived in a fast-paced environment at Elli Convenience Store, excelling in customer service and precise cash transactions. Played a key role in efficient inventory management, ensuring product availability in a dynamic setting. Maintained a clean and organized store to enhance the overall customer experience. Collaborated with the team to enforce store policies and ensure smooth daily operations in the fast-paced retail setting.",
+    },
+    {
       company: "Sarang (Non-Governmental Organization)",
       title: "Regional Head",
       location: "Prayagraj, India",
