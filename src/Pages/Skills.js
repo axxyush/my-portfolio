@@ -30,7 +30,7 @@ function Skills() {
           </p>
           <p style={{ color: `${textColor}` }} className="textS">
             {" "}
-            Web Development: HTML, CSS, JavaScript{" "}
+            Web Development: React, HTML, CSS, JavaScript{" "}
           </p>
           <p style={{ color: `${textColor}` }} className="textS">
             Development Tools: Visual Studio, Android Studio{" "}

@@ -10,8 +10,8 @@ function Education() {
       school: "University at Buffalo, The State University of New York",
       degree: "Bachelor of Science",
       year: "expected June 2027",
-      GPA: "3.5",
-      activities: `Honors College, Social Media Manager of QuantClub, Student Assistant at Elli (Convenience Store)`,
+      GPA: "3.7",
+      activities: `Honors College, Research Assistant, Dean's List - Spring 2024, Social Media Manager - QuantClub, Student Assistant - Elli (CDS)`,
     },
     {
       school: "Boys' High School & College Annexe",

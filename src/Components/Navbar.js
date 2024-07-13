@@ -37,7 +37,7 @@ export default function Navbar(props) {
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
-                  href="#"
+                  href="/"
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
@@ -70,7 +70,7 @@ export default function Navbar(props) {
                   </li>
                   <li>
                     <Link className="dropdown-item" to="/seeMore">
-                      See More
+                      Resume
                     </Link>
                   </li>
                 </ul>

@@ -7,12 +7,21 @@ function Experience() {
   const { mode, textColor, toggleMode } = useDarkMode();
   const experiences = [
     {
+      company:
+        "University at Buffalo, School of Engineering and Applied Sciences",
+      title: "Research Assistant",
+      location: "Buffalo, United States",
+      year: "July 2024 - present",
+      description:
+        "Collaborated on the creation of Vocal Lens, an application that utilizes phoneme-level mispronunciation detection to identify language impairments in children. Led the development and maintenance of the Vocal Lens website. Ensured a user-friendly interface and seamless access to research tools and findings. Managed updates to ensure website functionality and reliability.",
+    },
+    {
       company: "UB Campus Dining & Shops",
-      title: "Student Employee",
+      title: "Student Leader",
       location: "Buffalo, United States",
       year: "January 2024 - present",
       description:
-        "Thrived in a fast-paced environment at Elli Convenience Store, excelling in customer service and precise cash transactions. Played a key role in efficient inventory management, ensuring product availability in a dynamic setting. Maintained a clean and organized store to enhance the overall customer experience. Collaborated with the team to enforce store policies and ensure smooth daily operations in the fast-paced retail setting.",
+        "Trained new employees and maintained the dynamics of the store. Thrived in a fast-paced environment at Elli, delivering excellent customer service and managing cash. Collaborated with the team to ensure smooth daily operations and enforced store policies in a fast-paced setting.",
     },
     {
       company: "Sarang (Non-Governmental Organization)",
